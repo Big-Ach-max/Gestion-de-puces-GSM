@@ -15,4 +15,4 @@ Nous accueillons avec enthousiasme toutes les contributions qui peuvent aider à
 1. **Fork du Projet :** Forkez ce projet en utilisant le bouton en haut à droite.
 2. **Clonage :** Clonez votre fork localement sur votre machine.
    ```bash
-   git clone https://github.com/Big-Ach-max/Gestion-puces-GSM.git
+   git clone https://github.com/Big-Ach-max/Gestion-de-puces-GSM.git
